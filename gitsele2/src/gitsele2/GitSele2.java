@@ -12,7 +12,7 @@ package gitsele2;
 			// TODO Auto-generated method stub
 	System.setProperty("webdriver.gecko.driver","C:\\Users\\radhakrishnan\\Downloads\\geckodriver-v0.26.0-win64\\geckodriver.exe");
 	WebDriver driver=new FirefoxDriver();
-	driver.get("https:\\www.facebook.com");
+	System.out.println("hello");
 	
 		}
 
